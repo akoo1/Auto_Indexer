@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SentimentAnalyzer.dir/main.cpp.o CMakeFiles/SentimentAnalyzer.dir/DSString.cpp.o CMakeFiles/SentimentAnalyzer.dir/test.cpp.o  -o SentimentAnalyzer 
